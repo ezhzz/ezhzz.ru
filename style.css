@@ -1,0 +1,57 @@
+@font-face{
+  font-family: 'font_light';
+  src: url('font_light.ttf');
+}
+@font-face{
+  font-family: 'font_bold';
+  src: url('font_bold.ttf');
+}
+
+body {
+  background-color: black;
+}
+.all {
+  display: flex;
+  align-items: center;
+}
+.window {
+  margin: 0 auto;
+  height: 450px;
+  width: 700px;
+  border-radius: 10px;
+  background-color: #080808;
+}
+.header {
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  background-color: #121212;
+  height: 50px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.mysocial {
+  display: flex;
+  align-items: center;
+}
+h1 {
+  color: white;
+  padding-left: 15px;
+  font-family: 'font_bold';
+}
+h2 {
+  font-family: 'font_light';
+  margin-left: 15px;
+}
+.social {
+  color: white;
+}
+p {
+  font-family: 'font_light';
+  color: white;
+  font-size: 25px;
+  padding-left: 15px;
+}
+a {
+  color: gray;
+}
