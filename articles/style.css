@@ -1,0 +1,34 @@
+.content {
+  width: 600px;
+  margin: 0 auto;
+}
+body {
+  background-color: black
+}
+* {
+  color: white;
+  text-align: center;
+}
+@font-face{
+  font-family: 'font_light';
+  src: url('../font_light.ttf');
+}
+@font-face{
+  font-family: 'font_bold';
+  src: url('../font_bold.ttf');
+}
+@font-face{
+  font-family: 'ps';
+  src: url('../pressstart.ttf');
+}
+h1, p, h2, h3, a {
+  color: white;
+  font-family: 'font_light';
+  text-align: center;
+}
+.title {
+  font-family: 'ps';
+}
+h3, h1 {
+  font-family: 'font_bold';
+}
