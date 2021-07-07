@@ -1,0 +1,59 @@
+@font-face{
+  font-family: 'rl';
+  src: url('Roboto-Light.ttf');
+}
+* {
+  font-family: 'rl';
+  font-weight: 300;
+}
+a {
+  color: black;
+}
+.main {
+  margin: 0 auto;
+  width: 600px;
+  padding-left: 250px;
+}
+
+b {
+  font-weight:bold;
+}
+.header {
+  background-color: black;
+  color: white;
+  position: fixed;
+  top: 0;
+  width: 250px;
+  left: 0;
+  height: 100%;
+  padding-left: 20px;
+}
+ul {
+  list-style-type: none;
+}
+.logo {
+  font-weight: 900;
+}
+.warn {
+  color: grey;
+  padding-right: 10px;
+  font-size: 15px;
+}
+.hl {
+  color: white;
+  text-decoration: none;
+}
+.project {
+  display: flex;
+  align-items: center;
+}
+.project p {
+  margin-left: 10px;
+}
+.theme {
+  font-weight: bold;
+  font-size: 50px;
+}
+p {
+  font-size: 20px;
+}
