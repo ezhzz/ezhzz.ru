@@ -3,9 +3,9 @@
   <ShortName>PrivateSearch</ShortName>
   <Description>Поиск без отслеживания. Основан на Searx.</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image>http://privatesearch/static/themes/oscar/img/favicon.png</Image>
+  <Image>http://privatesearch.ru/static/themes/oscar/img/favicon.png</Image>
   <LongName>searx metasearch</LongName>
-    <Url rel="results" type="text/html" method="post" template="http://privatesearch/search">
+    <Url rel="results" type="text/html" method="post" template="http://privatesearch.ru/search">
         <Param name="q" value="{searchTerms}" />
     </Url>
 
