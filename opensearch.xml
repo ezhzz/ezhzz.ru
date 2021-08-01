@@ -5,8 +5,7 @@
   <InputEncoding>UTF-8</InputEncoding>
   <Image>http://privatesearch.ru/static/themes/oscar/img/favicon.png</Image>
   <LongName>searx metasearch</LongName>
-    <Url rel="results" type="text/html" method="post" template="http://privatesearch.ru/search">
-        <Param name="q" value="{searchTerms}" />
+    <Url rel="results" type="text/html" method="get" template="https://privatesearch.ru/search?q={searchTerms}">
     </Url>
 
   <Url type="application/opensearchdescription+xml"
