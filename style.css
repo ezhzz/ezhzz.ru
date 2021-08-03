@@ -42,9 +42,6 @@ h3 {
     h1 {
       font-size: 60px;
     }
-    body {
-      margin: 200px;
-    }
 }
 @media screen and (min-device-width: 500px) {
     * {
