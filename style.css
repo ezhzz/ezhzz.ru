@@ -32,6 +32,9 @@ body {
 .nick {
   text-align: center;
 }
+.dnick {
+  text-align: center;
+}
 .content {
   margin: 0 auto;
 }
@@ -44,6 +47,11 @@ h3 {
   top: -20px;
 }
 
+@media screen and (max-device-height: 500px) {
+    .dnick {
+      margin-top: 100px;
+    }
+}
 
 @media screen and (max-device-width: 500px) {
     * {
