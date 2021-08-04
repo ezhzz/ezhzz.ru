@@ -55,6 +55,10 @@ h3 {
     .project {
       margin-left: 10px;
     }
+    .all {
+      padding-right: 20px;
+      padding-left: 20px;
+    }
 }
 @media screen and (min-device-width: 500px) {
     * {
