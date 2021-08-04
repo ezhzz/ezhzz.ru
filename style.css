@@ -59,6 +59,9 @@ h3 {
       padding-right: 20px;
       padding-left: 20px;
     }
+    .crypto {
+      font-size: 10px;
+    }
 }
 @media screen and (min-device-width: 500px) {
     * {
