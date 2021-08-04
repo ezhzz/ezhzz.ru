@@ -5,7 +5,17 @@
 * {
   font-family: 'rl';
   font-weight: 300;
-  color: #efdab9
+  color: #efdab9;
+}
+
+.link {
+  color: #edcf9f;
+}
+.link:hover {
+  background-color: #edcf9f;
+  color: black;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 body {
@@ -42,6 +52,9 @@ h3 {
     h1 {
       font-size: 60px;
     }
+    .project {
+      margin-left: 10px;
+    }
 }
 @media screen and (min-device-width: 500px) {
     * {
@@ -50,4 +63,7 @@ h3 {
     h1 {
       font-size: 50px;
     }
+}
+.crypto {
+  font-size: 15px;
 }
