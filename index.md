@@ -15,8 +15,8 @@
 Вторая почта: ezhzz@disroot.org (в том числе, принимаю сообщения через [Delta Chat](https://delta.chat))<br>
 _Вы можете зашифровать свои письма при помощи [GPG ключа](https://ezhzz.ru/ezhzz.gpg)._
 # Донат
-Тинькофф: `5536 9139 9811 1252`
-QIWI: `4890 4947 2225 3762`
-Bitcoin: `34ARPiy6EXArUwnXKbaSBnhyo6JLriaqJN`
-Zcash: `t1KAq2ohkmNiYWGMTzxaWcijMnfbuNdYhhQ`
+Тинькофф: `5536 9139 9811 1252`<br>
+QIWI: `4890 4947 2225 3762`<br>
+Bitcoin: `34ARPiy6EXArUwnXKbaSBnhyo6JLriaqJN`<br>
+Zcash: `t1KAq2ohkmNiYWGMTzxaWcijMnfbuNdYhhQ`<br>
 DOGE: `D5EZy1p2QPyo3Y7Y4S4QQ59cuhBoPgYiy3`
