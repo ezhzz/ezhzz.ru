@@ -5,7 +5,7 @@
 [Moon](https://github.com/Moon-wallet) - клон VKCoin, с открытым исходным кодом.<br>
 [Postfeed](https://t.me/postfeeds) - инстанс [OpenVK](https://github.com/openvk/openvk), тут я занимаюсь разработкой плеера для музыки и плагина для загрузки контента на страницы. 
 # Ссылки
-<a rel="me" href="https://ru.social/@ezhzz">Mastodon</a>
+<a rel="me" href="https://ru.social/@ezhzz">Mastodon</a><br>
 [Telegram канал](https://t.me/ezhzz)<br>
 [OpenVK](https://openvk.su/ezhzz)<br>
 [Revolt сервер](https://app.revolt.chat/invite/gZ8NHxgW)<br>
