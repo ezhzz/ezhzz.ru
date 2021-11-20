@@ -12,6 +12,7 @@
 # Контакты
 [Telegram](https://t.me/ezhzzz)<br>
 [Matrix](https://matrix.to/#/@skywalker1:matrix.org)<br>
+XMPP: ezhzz@disroot.org<br>
 Почта: ezhzz@tutanota.com<br>
 Вторая почта: ezhzz@disroot.org (в том числе, принимаю сообщения через [Delta Chat](https://delta.chat))<br>
 _Вы можете зашифровать свои письма при помощи [GPG ключа](https://ezhzz.ru/ezhzz.gpg)._
