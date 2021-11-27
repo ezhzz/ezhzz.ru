@@ -22,4 +22,4 @@ QIWI: `4890 4947 2225 3762`<br>
 Bitcoin: `34ARPiy6EXArUwnXKbaSBnhyo6JLriaqJN`<br>
 Zcash: `t1KAq2ohkmNiYWGMTzxaWcijMnfbuNdYhhQ`<br>
 DOGE: `D5EZy1p2QPyo3Y7Y4S4QQ59cuhBoPgYiy3`
-<!-- Another Web Website -->
+<!--Another Web Available https://raw.githubusercontent.com/ezhzz/ezhzz.ru/main/index.md-->
