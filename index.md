@@ -2,7 +2,7 @@
 Я - Влад, или ezhzz, backend разработчик из Новосибирска.<br>
 Пишу на JS и на Python.
 # Проекты
-[Secret Santa](/secretsanta) - Секретный Санта (школьный проект)
+[Secret Santa](/secretsanta) - Секретный Санта (школьный проект)<br>
 [Moon](https://github.com/Moon-wallet) - клон VKCoin, с открытым исходным кодом.<br>
 [Postfeed](https://t.me/postfeeds) - инстанс [OpenVK](https://github.com/openvk/openvk), тут я занимаюсь разработкой плеера для музыки и плагина для загрузки контента на страницы. 
 # Ссылки
