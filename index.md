@@ -4,7 +4,6 @@
 # Проекты
 [Secret Santa](/secretsanta) - Секретный Санта (школьный проект)<br>
 [Moon](https://github.com/Moon-wallet) - клон VKCoin, с открытым исходным кодом.<br>
-[Postfeed](https://t.me/postfeeds) - инстанс [OpenVK](https://github.com/openvk/openvk), тут я занимаюсь разработкой плеера для музыки и плагина для загрузки контента на страницы. 
 # Ссылки
 <a rel="me" href="https://ru.social/@ezhzz">Mastodon</a><br>
 [Telegram канал](https://t.me/ezhzz)<br>
