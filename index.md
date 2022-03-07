@@ -19,7 +19,7 @@ _Вы можете зашифровать свои письма при помо�
 # Донат
 Тинькофф: `5536 9139 9811 1252`<br>
 QIWI: `4890 4947 2225 3762`<br>
-Bitcoin: `34ARPiy6EXArUwnXKbaSBnhyo6JLriaqJN`<br>
+Bitcoin: `bc1qtpvjjqhvc7kt5nalq3h2pp2zleqrhufll06qrd`<br>
 Zcash: `t1KAq2ohkmNiYWGMTzxaWcijMnfbuNdYhhQ`<br>
 DOGE: `D5EZy1p2QPyo3Y7Y4S4QQ59cuhBoPgYiy3`
 <!-- Another Web Available https://raw.githubusercontent.com/ezhzz/ezhzz.ru/main/index.md -->
