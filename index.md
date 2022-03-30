@@ -15,7 +15,6 @@
 XMPP: ezhzz@disroot.org<br>
 Почта: ezhzz@tutanota.com<br>
 Вторая почта: ezhzz@disroot.org (в том числе, принимаю сообщения через [Delta Chat](https://delta.chat))<br>
-_Вы можете зашифровать свои письма при помощи [GPG ключа](https://ezhzz.ru/ezhzz.gpg)._
 # Донат
 Тинькофф: `5536 9139 9811 1252`<br>
 QIWI: `4890 4947 2225 3762`<br>
