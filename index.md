@@ -18,7 +18,7 @@ XMPP: ezhzz@disroot.org<br>
 Вторая почта: ezhzz@disroot.org (в том числе, принимаю сообщения через [Delta Chat](https://delta.chat))<br>
 # Донат
 Тинькофф: `5536 9139 9811 1252`<br>
-QIWI: `4890 4947 2225 3762`<br>
+QIWI: `4890 4947 6641 9873`<br>
 Bitcoin: `bc1qtpvjjqhvc7kt5nalq3h2pp2zleqrhufll06qrd`<br>
 Zcash: `t1KAq2ohkmNiYWGMTzxaWcijMnfbuNdYhhQ`<br>
 DOGE: `D5EZy1p2QPyo3Y7Y4S4QQ59cuhBoPgYiy3`
